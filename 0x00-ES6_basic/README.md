@@ -1,4 +1,4 @@
-# 0x00. ES6 Basics - alx backend javascript project
+# 0x00. ES6 Basics - ALX Backend Javascript Project
 ## Requirements
 ### General
 ```
